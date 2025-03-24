@@ -94,21 +94,16 @@ Bu proje, **graf tabanlı bir metro ağı üzerinde rota optimizasyonu** yapmay�
 
 ---
 ## GUI Ekranı Özellikleri:
-- İstasyon seçimi (`Start`, `End`) ve Rota türü seçimi (`Fastest`, `Minimum Transfers`)
-  ![image](https://github.com/user-attachments/assets/4bbd2091-f191-47bb-aac5-f6cf8d6574b1)
-- Canlı animasyon ve güzergah vurgulama
-  ![image](https://github.com/user-attachments/assets/43f201e1-5f4f-4f87-ade5-04ed65e01d3c)
+- İstasyon seçimi (`Start`, `End`) ve Rota türü seçimi (`Fastest`, `Minimum Transfers`) ![image](https://github.com/user-attachments/assets/4bbd2091-f191-47bb-aac5-f6cf8d6574b1)
+- Canlı animasyon ve güzergah vurgulama ![image](https://github.com/user-attachments/assets/43f201e1-5f4f-4f87-ade5-04ed65e01d3c)
 - Zoom
-  ![image](https://github.com/user-attachments/assets/03b7ebce-40b7-48dc-be14-9d8d246808f2) `Zoom In`
-  ![image](https://github.com/user-attachments/assets/fe847801-5c96-4e6a-9e94-6382e5ebe7ba) `Zoom Out`
+  ![image](https://github.com/user-attachments/assets/03b7ebce-40b7-48dc-be14-9d8d246808f2) 
+  ![image](https://github.com/user-attachments/assets/fe847801-5c96-4e6a-9e94-6382e5ebe7ba) 
 - Dark/light mode
 - Kenar sayılarını kaldırma
-- İstasyon arama, highlight'lama
-  ![image](https://github.com/user-attachments/assets/84d5f013-13f8-403c-acb4-f48dab1aa96c)
-- İstasyon bilgilerini gösterme
-  ![image](https://github.com/user-attachments/assets/ad730787-2687-4d1d-b54a-1fa2d2ca8f34)
-- Hat bilgilerini gösterme
-  ![image](https://github.com/user-attachments/assets/bfc3f056-b4a5-4b86-a614-ba204e586a79)
+- İstasyon arama, highlight'lama ![image](https://github.com/user-attachments/assets/84d5f013-13f8-403c-acb4-f48dab1aa96c)
+- İstasyon bilgilerini gösterme ![image](https://github.com/user-attachments/assets/ad730787-2687-4d1d-b54a-1fa2d2ca8f34)
+- Hat bilgilerini gösterme ![image](https://github.com/user-attachments/assets/bfc3f056-b4a5-4b86-a614-ba204e586a79)
 - Kesişim istastyonlarını büyültüp küçültme 
 
 ---
