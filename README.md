@@ -158,8 +158,14 @@ Bu proje MIT Lisansı altında lisanslanmıştır.
 ## 🙋‍♀️ Katkıda Bulun
 Pull Request'ler ve öneriler memnuniyetle karşılanır! Lütfen issues sekmesini kullanarak sorunları bildiriniz.
 
+---
 
+## 👨‍💻 Geliştirici Bilgisi
 
+- **İsim:** Yasin Ekici
+- **GitHub:** https://github.com/YasinEkici
+- **LinkedIn** https://www.linkedin.com/in/yasin-ekici-807951255
+- **E-posta:** yasinekici021@outlook.com
 
 
 
