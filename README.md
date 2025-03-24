@@ -9,13 +9,13 @@ Bu proje, **graf tabanlı bir metro ağı üzerinde rota optimizasyonu** yapmay�
 | Teknoloji/Kütüphane | 
 |---------------------|
 | `tkinter`           | 
-| `matplotlib`        | 
-| `networkx`          | 
-| `heapq`             | 
-| `collections.deque` | 
-| `itertools`         | 
-| `math`              | 
-| `typing`            | 
+| `networkx`        | 
+| `matplotlib`          | 
+| `collections.deque`             | 
+| `heapq` | 
+| `typing`         | 
+| `itertools`              | 
+| `math`            | 
 
 *   **Tkinter:**
     *   Grafik kullanıcı arayüzü (GUI) geliştirmek için kullanılmıştır.
@@ -94,14 +94,22 @@ Bu proje, **graf tabanlı bir metro ağı üzerinde rota optimizasyonu** yapmay�
 
 ---
 ## GUI Ekranı Özellikleri:
-- İstasyon seçimi (`Start`, `End`) 
-- Rota türü seçimi (`Fastest`, `Minimum Transfers`)
+- İstasyon seçimi (`Start`, `End`) ve Rota türü seçimi (`Fastest`, `Minimum Transfers`)
+  ![image](https://github.com/user-attachments/assets/4bbd2091-f191-47bb-aac5-f6cf8d6574b1)
 - Canlı animasyon ve güzergah vurgulama
-- Zoom, dark/light mode
+  ![image](https://github.com/user-attachments/assets/43f201e1-5f4f-4f87-ade5-04ed65e01d3c)
+- Zoom
+  ![image](https://github.com/user-attachments/assets/03b7ebce-40b7-48dc-be14-9d8d246808f2) `Zoom In`
+  ![image](https://github.com/user-attachments/assets/fe847801-5c96-4e6a-9e94-6382e5ebe7ba) `Zoom Out`
+- Dark/light mode
 - Kenar sayılarını kaldırma
 - İstasyon arama, highlight'lama
+  ![image](https://github.com/user-attachments/assets/84d5f013-13f8-403c-acb4-f48dab1aa96c)
 - İstasyon bilgilerini gösterme
+  ![image](https://github.com/user-attachments/assets/ad730787-2687-4d1d-b54a-1fa2d2ca8f34)
 - Hat bilgilerini gösterme
+  ![image](https://github.com/user-attachments/assets/bfc3f056-b4a5-4b86-a614-ba204e586a79)
+- Kesişim istastyonlarını büyültüp küçültme 
 
 ---
 
@@ -142,16 +150,13 @@ Bu proje, **graf tabanlı bir metro ağı üzerinde rota optimizasyonu** yapmay�
 
 ---
 
-## 📁 Kurulum
+## 📌 Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır.
 
-```bash
-# Gereksinimleri yükleyin
-pip install matplotlib networkx
+---
 
-# Projeyi çalıştırın
-python dosya_adi.py
-
-
+## 🙋‍♀️ Katkıda Bulun
+Pull Request'ler ve öneriler memnuniyetle karşılanır! Lütfen issues sekmesini kullanarak sorunları bildiriniz.
 
 
 
