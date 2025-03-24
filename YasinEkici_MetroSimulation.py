@@ -540,7 +540,7 @@ class MetroSimulationGUI:
                 self.collapsed_graph,
                 self.pos_map,
                 edgelist=route_edges,
-                edge_color="FF00FF",
+                edge_color="#FF00FF",
                 width=4,
                 connectionstyle='arc3,rad=0.2',
                 ax=self.ax
