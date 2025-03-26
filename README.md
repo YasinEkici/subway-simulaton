@@ -1,6 +1,6 @@
 # 🚇 Driverless Metro Simulation
 
-Bu proje, **graf tabanlı bir metro ağı üzerinde rota optimizasyonu** yapmayı amaçlayan interaktif bir simülasyon arayüzüdür. Kullanıcılar iki istasyon arasında **en hızlı rota (A*)** veya **en az aktarmalı rota (BFS)** seçeneklerini seçerek ideal güzergahı bulabilir. Proje bir GUI arayüzü, görselleştirme, arama, animasyon ve tema seçenekleriyle zenginleştirilmiştir.
+Bu proje, **graf tabanlı bir metro ağı üzerinde rota optimizasyonu** yapmayı amaçlayan interaktif bir simülasyon arayüzüdür. Kullanıcılar iki istasyon arasında **en hızlı rota (A*)** ve **en az aktarmalı rota (BFS)** seçeneklerini seçerek ideal güzergahı bulabilir. Proje bir GUI arayüzü, görselleştirme, arama, animasyon ve tema seçenekleriyle zenginleştirilmiştir.
 
 ---
 
@@ -109,7 +109,7 @@ Bu proje, **graf tabanlı bir metro ağı üzerinde rota optimizasyonu** yapmay�
 - ![image](https://github.com/user-attachments/assets/ad730787-2687-4d1d-b54a-1fa2d2ca8f34)
 - Hat bilgilerini gösterme
 - ![image](https://github.com/user-attachments/assets/bfc3f056-b4a5-4b86-a614-ba204e586a79)
-- Kesişim istastyonlarını büyültüp küçültme 
+- Kesişim istasyonlarını büyültüp küçültme 
 
 ---
 
@@ -131,7 +131,7 @@ Bu proje, **graf tabanlı bir metro ağı üzerinde rota optimizasyonu** yapmay�
    `Fastest Route: Dikmen -> Övençler -> Konukkent -> Bilkent -> Emek -> Bahçeliever -> AŞTİ -> Kızılay -> Moda -> Bostancı  (42 dk)`
   ![image](https://github.com/user-attachments/assets/d76daa62-5c7d-4541-86a7-ccf397a14cb1)
 
-   `Minimum Transfers Route: Dikmen -> Övençler -> Konukkent -> Oran -> Kadıköy -> Moda -> Bostancı
+   `Minimum Transfers Route: Dikmen -> Övençler -> Konukkent -> Oran -> Kadıköy -> Moda -> Bostancı`
   ![image](https://github.com/user-attachments/assets/4d50ee9f-df05-4da2-9845-33d1fd7e84ac)
 
   
